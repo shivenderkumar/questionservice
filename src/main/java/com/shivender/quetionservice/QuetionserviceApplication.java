@@ -8,6 +8,7 @@ public class QuetionserviceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(QuetionserviceApplication.class, args);
+		System.out.println("Question microservice running on port 8080");
 	}
 
 }
